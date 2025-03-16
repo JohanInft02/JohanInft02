@@ -17,7 +17,7 @@
 
 <h2 align="left">Otros canales de contacto:</h3>
 <p align="left">
-    <a href="https://wa.me/50762688384" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+507 6268-8384" height="30" width="40" /></a>
+    <a href="https://wa.me/50762688384" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+507 6268-8384"/></a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/johan-a-infante-11bb1a28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"          
     alt="https://www.linkedin.com/in/johan-a-infante-11bb1a28b/" height="30" width="40" /></a>
 </p>
