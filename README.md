@@ -1,7 +1,7 @@
 <h1 align="center">Hola yo soy Johan Infante</h1>
 <h3 align="center">Desarrollador apasionado por crear soluciones innovadoras. Especializado en tecnologías web y DevOps, siempre buscando aprender y aplicar las últimas tendencias en el mundo del desarrollo de software.</h3>
 
-<img src="/GianSandoval5/GianSandoval5/raw/master/banner.png" alt="GitHub Header" style="max-width: 100%;">
+<img src="https://github.com/GianSandoval5/GianSandoval5/raw/master/banner.png" alt="GitHub Header" style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johaninft02&label=Profile%20views&color=0e75b6&style=flat" alt="johaninft02" /> </p>
 
